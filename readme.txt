@@ -1,4 +1,4 @@
 Welcome To MyProject!
 
-Author: Mahesh
+Author: Mahesh Kale
 Twitter: @maheshkale
